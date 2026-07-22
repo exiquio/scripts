@@ -1,3 +1,5 @@
+#!/usr/bin/env elixir
+
 Mix.install([
   {:nimble_csv, "~> 1.2"}
 ])

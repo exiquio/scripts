@@ -1,3 +1,5 @@
+#!/usr/bin/env elixir
+
 defmodule YnabConverter do
   @months %{
     "Jan" => "01",
